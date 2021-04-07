@@ -216,6 +216,14 @@ input, select, textarea {
 			font-size: 1.25em;
 			margin: 0;
 		}
+	.technologies {
+		background-color: #43bff0;
+		display:flex;
+	}
+
+	.skill {
+		display:contents;
+	}
 
 	footer {
 		margin: 3em 0 0 0;
@@ -2115,7 +2123,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 4em 0 10em 0;
 		text-align: left;
 	}
 
